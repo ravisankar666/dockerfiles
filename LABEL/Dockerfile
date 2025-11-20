@@ -1,3 +1,4 @@
 FROM almalinux
 LABEL course="docker" \
-      trainse="roy"
+      trainer="roy"\
+      author="@ravi"
