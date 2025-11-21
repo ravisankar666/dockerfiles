@@ -1,0 +1,2 @@
+AGR VERSION
+FROM almalinux:${VERSION:-9}
